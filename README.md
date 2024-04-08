@@ -58,4 +58,4 @@
 
 При создании нового проекта обязательно необходимо создавать в нем WorkSpace для возможности работы нескольких разработчиков с одним проектом с одинаковыми настройками prette и linter
 
-О подключении тут: Настройка: Prettier+ SLint + Nuxt3
+О подключении и настройке тут: [Prettier+ SLint + Nuxt3](https://github.com/Azirafel17/NuxtCodeRecommendations/blob/main/PrettierSLintNuxt.md)
